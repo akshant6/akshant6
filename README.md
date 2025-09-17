@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Akshant Prakash.
-👀 I’m a product enthusiast who can code. 
-🌱 I’m currently learning Data Science + Advanced PM Frameworks   
+# 👋 Hi, I’m Akshant Prakash.  
+👀 I’m a product enthusiast who can code.  
+🌱 I’m currently learning Data Science + Advanced PM Frameworks.   
 📫 Reach me at: akshant.pr@gmail.com  
 
 
